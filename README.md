@@ -1,2 +1,2 @@
-# my-firt-repo
+# my-first-repo
 Practice account
